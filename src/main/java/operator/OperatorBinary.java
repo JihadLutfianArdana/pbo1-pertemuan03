@@ -9,5 +9,12 @@ public class OperatorBinary {
         System.out.println(nama);
         System.out.println("Jumlah SKS = " + jumlahSks);
         System.out.println("IPK = " + indeksPrestasiKumulatif);
+        
+        System.out.println(10+10);
+        System.out.println(10-10);
+        System.out.println(10*10);
+        System.out.println(10/10);
+        System.out.println(10%10);
+        System.out.println(10%3);
     }
 }
